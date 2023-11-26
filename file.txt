@@ -1,2 +1,3 @@
 I am a computer file. 
 Look at me!
+Here's another line for nano!
