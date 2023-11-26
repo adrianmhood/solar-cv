@@ -1,3 +1,4 @@
 I am a computer file. 
 Look at me!
 Here's another line for nano!
+Nano is nice, I like her more than vim maybe.
